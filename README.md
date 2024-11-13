@@ -25,6 +25,10 @@ To harmonize the identifiers across both databases, the following mappings are e
 * `stay_id`: Equivalent to `patientunitstayid`
 
 
+## Future Work
+Not all concepts or variables are fully implemented in this version. We plan to update and expand the available SQL queries in future releases.
+
+
 ## Citation
 If you find this SQL code helpful, please cite the following paper:
 > Takkavatakarn K, Oh W, Chan L, Hofer I, Shawwa K, Kraft M, Shah N, Kohli-Seth R, Nadkarni GN, Sakhuja A. Machine learning derived serum creatinine trajectories in acute kidney injury in critically ill patients with sepsis. Critical Care. 2024 May 10;28(1):156.
